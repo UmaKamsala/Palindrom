@@ -1,0 +1,2 @@
+# Palindrom
+Finding palindrome number
